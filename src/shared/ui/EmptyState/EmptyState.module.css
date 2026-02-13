@@ -1,0 +1,15 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: var(--space6);
+  color: var(--muted);
+  text-align: center;
+  gap: var(--space2);
+}
+
+.icon {
+  font-size: 32px;
+  opacity: 0.5;
+}

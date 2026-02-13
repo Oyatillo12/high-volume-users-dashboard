@@ -1,0 +1,30 @@
+:root {
+  --bg: #ffffff;
+  --surface: #f9fafb;
+  --text: #1f2937;
+  --muted: #6b7280;
+  --border: #e5e7eb;
+
+  --primary: #3b82f6;
+  --primaryText: #ffffff;
+  --danger: #ef4444;
+
+  --radiusSm: 4px;
+  --radiusMd: 8px;
+  --radiusLg: 12px;
+
+  --space1: 4px;
+  --space2: 8px;
+  --space3: 12px;
+  --space4: 16px;
+  --space5: 24px;
+  --space6: 32px;
+
+  --shadowSm: 0 1px 2px 0 rgb(0 0 0 / 0.05);
+  --shadowMd: 0 4px 6px -1px rgb(0 0 0 / 0.1), 0 2px 4px -2px rgb(0 0 0 / 0.1);
+
+  --fontSm: 12px;
+  --fontMd: 14px;
+  --fontLg: 16px;
+  --fontXl: 20px;
+}

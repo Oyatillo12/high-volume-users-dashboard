@@ -1,0 +1,11 @@
+.form {
+  display: grid;
+  gap: var(--space4);
+}
+
+.actions {
+  display: flex;
+  gap: var(--space2);
+  justify-content: flex-end;
+  margin-top: var(--space2);
+}

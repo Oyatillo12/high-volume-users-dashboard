@@ -1,0 +1,35 @@
+.container {
+  padding: var(--space6);
+  max-width: 1400px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  gap: var(--space5);
+}
+
+.title {
+  font-size: 28px;
+  font-weight: 700;
+  margin: 0;
+  color: var(--text);
+}
+
+.toolbar {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--space4);
+  align-items: center;
+  justify-content: space-between;
+  background: white;
+  padding: var(--space4);
+  border-radius: var(--radiusMd);
+  border: 1px solid var(--border);
+  box-shadow: var(--shadowSm);
+}
+
+.filters {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--space4);
+  align-items: center;
+}
